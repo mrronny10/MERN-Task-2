@@ -28,6 +28,6 @@
 
 ## Live Link:
 
-- Livesite: https://banao-social.web.app/
-- Client repo: https://github.com/itznur07/banao-social
-- Server repo: https://github.com/itznur07/banao-social-server
+- Livesite: https://mern-task-2-gold.vercel.app/
+- Client repo: https://github.com/mrronny10/MERN-Task-2
+- Server repo: https://github.com/mrronny10/MERN-Task-2
